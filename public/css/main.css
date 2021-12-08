@@ -1,0 +1,33 @@
+.wrapper {
+    text-align: center;
+    padding: 200px auto;
+}
+
+.book {
+    width: 600px;
+    height: auto;
+    margin-left: 25%;
+}
+
+.wrapper {
+    max-width: 1140px;
+    padding: 10px;
+    margin: 20px auto;
+  }
+
+  .form {
+      padding: 20px;
+  }
+
+  .floated {
+    float:left;
+    margin-right:70px;
+    margin-left: 350px;
+    padding: 5px;
+ }
+
+  .line {
+      background-color: #b5fff3;
+      height: 5px;
+  }
+
